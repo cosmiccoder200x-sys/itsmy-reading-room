@@ -1,0 +1,671 @@
+[
+  {
+    "id": 0,
+    "title": "The Inner Game of Tennis",
+    "author": "W. Timothy Gallwey",
+    "topic": "Practice",
+    "overview": "Under pressure, the voice reviewing your performance can interrupt the skill you have already learned. Gallwey uses tennis to explore how curiosity, sensory attention and trust change practice.",
+    "example": "Overthinking a contest? After a failed test, record the smallest input that failed and what it returned. That observation gives your next attempt a direction.",
+    "limit": "A technique for directing attention cannot replace learning the underlying skill.",
+    "ideas": [
+      "Describe the landing spot before rating the shot",
+      "Choose one observable cue for the next attempt",
+      "Separate feedback time from performance time",
+      "Notice the exact moment your attention drifts",
+      "Let a familiar movement run once without verbal coaching",
+      "Use a mental image of the desired result",
+      "Treat an opponent as someone who reveals a weakness",
+      "Measure concentration by how gently you return to the task",
+      "Experiment with grip or timing one variable at a time",
+      "After a match, record one discovery you can test tomorrow",
+      "Divide a performance into preparation, execution and review",
+      "Use the sound of contact as a single attention cue",
+      "Observe a skilled demonstration before requesting instructions",
+      "Practice recovering after an error as its own skill",
+      "Choose one aim you control before competitive play",
+      "Repeat a successful movement while attending to its feel",
+      "Leave room for surprise when predicting your own result",
+      "Treat boredom as a signal to change what you observe",
+      "Watch how self-talk shifts after success as well as failure",
+      "Compare two sessions using the same process measure",
+      "Ask a coach for descriptive feedback",
+      "Use a brief reset between attempts",
+      "Distinguish a scoreboard target from a learning target",
+      "Try a lower-stakes rehearsal of a pressure situation",
+      "End practice by recalling one movement you want to repeat"
+    ],
+    "source": "https://theinnergame.com/the-inner-game-of-tennis/",
+    "cases": [
+      "Two hidden tests failed. Write down the input, expected output and actual output. The description gives you three facts to inspect when the sentence ‘I am bad at contests’ gives you none.",
+      "During a timed proof, hold one question in mind: what exactly must this line establish? Return to that question whenever you start estimating your rank.",
+      "Rehearse a two-minute project introduction straight through. Only after it ends, listen to the recording and choose one sentence to revise. Notice what happens to your delivery when you stop editing mid-sentence.",
+      "While reading a proof, put a pencil mark beside the first line you cannot explain. Rereading from that line gives you a precise place to work.",
+      "Type a familiar function once without mentally narrating each keystroke. Then review it deliberately. Which mistakes did the slower review catch?",
+      "Before changing a dashboard, sketch how the finished screen should answer a visitor’s question. Keep that concrete picture visible through the first revision.",
+      "A stronger chess opponent keeps reaching your back rank. Save one position and work out which earlier choice allowed it. The result of the game becomes a training example.",
+      "During a mock interview you notice yourself planning what the interviewer will think. Bring your attention back to the input constraints and say one of them aloud.",
+      "If a classifier improves after changing both the data split and the feature set, rerun with one change at a time. Record which change moved the metric.",
+      "After a contest, finish the sentence ‘I wonder whether…’ with a question that a tiny test case can answer. Run it once before your next contest."
+    ],
+    "lessons": [
+      [
+        "A description preserves details you can test.",
+        "Rewrite a mistake using only facts a camera or log could record."
+      ],
+      [
+        "One cue gives attention somewhere to return during pressure.",
+        "Pick a cue for your next attempt and record when you used it."
+      ],
+      [
+        "Reviewing during execution divides attention.",
+        "Record an uninterrupted explanation and review it afterward."
+      ],
+      [
+        "The first moment of confusion makes a precise starting point.",
+        "Mark the first proof step you cannot explain."
+      ],
+      [
+        "A familiar sequence can run with less conscious direction.",
+        "Perform it once smoothly, then review its result."
+      ],
+      [
+        "Imagining an outcome helps you recognize it.",
+        "Sketch the desired output before your next revision."
+      ],
+      [
+        "A difficult opponent reveals repeatable weaknesses.",
+        "Turn one recurring loss into a drill."
+      ],
+      [
+        "Returning attention is itself a practice opportunity.",
+        "Choose a reset cue for your next three distractions."
+      ],
+      [
+        "Changing two variables obscures the cause of improvement.",
+        "Repeat one test with only one condition changed."
+      ],
+      [
+        "A testable question carries learning into the next session.",
+        "Turn one surprise into a prediction."
+      ]
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Mastery",
+    "author": "Robert Greene",
+    "topic": "Practice",
+    "overview": "Greene describes long apprenticeships in which close observation, repetition, mentorship and independent experiments develop judgment. His historical portraits invite you to look for the less visible work behind expertise.",
+    "example": "To learn debugging, read a maintainer’s diagnosis, predict the next test, then compare. Keep the prediction you got wrong.",
+    "limit": "Success stories select for survivors. Access to time, opportunity and instruction affects the path.",
+    "ideas": [
+      "List problems you keep returning to voluntarily",
+      "Map the basic skills your field rewards",
+      "Study how experienced people spend an ordinary day",
+      "Practice one weak subskill with immediate feedback",
+      "Ask a mentor to critique a specific decision",
+      "Copy a technique in private practice to understand its mechanics",
+      "Work with people whose strengths expose your blind spots",
+      "Combine two fields in a small experiment",
+      "Compare your instincts with measured results",
+      "Create a project that forces independent judgment",
+      "Keep a log of mistakes that recur across projects",
+      "Read an expert’s early work to notice development",
+      "Find out which constraints shaped an admired solution",
+      "Practice giving feedback as well as receiving it",
+      "Seek a second mentor for a different weakness",
+      "Use an unfamiliar tool to expose an assumption",
+      "Study the history of a technique before changing it",
+      "Work on a question that survives initial frustration",
+      "Invite a critic to test your favorite explanation",
+      "Set aside an attractive feature to finish a working whole",
+      "Explain an intuition as a prediction you can check",
+      "Use a small prototype to investigate a large concept",
+      "Study a neighboring discipline for a transferable method",
+      "Rebuild a past project under a new constraint",
+      "Review your work over months to spot emerging strengths"
+    ],
+    "source": "https://www.penguinrandomhouse.com/authors/243460/robert-greene/",
+    "cases": [
+      "Review the last five projects you built without being assigned them. Circle the part of each project you kept refining after the minimum requirement worked. Look for a recurring question.",
+      "Pick a repository you admire. Draw the path from input to storage to output. Mark one part you can already rebuild and one part that would force you to learn a new skill.",
+      "Read one completed pull request from a maintainer. How much of their effort went into understanding the bug, writing the change, testing it, and explaining it to others?",
+      "Choose one weakness such as proving a loop invariant. Practice on three short loops and check the invariant after every iteration with a hand-written trace.",
+      "Send a mentor one design choice, the alternatives you considered, and the constraint that decided it. Ask which assumption they would test first.",
+      "Rebuild a small search interface from memory. Then examine the original interaction and identify the first decision your reconstruction missed.",
+      "Pair with someone who approaches a problem through examples while you prefer abstractions. Predict where your solution might fail, then compare the two lists.",
+      "Use graph traversal to explore links between the books in your reading list. Which questions become easier once the material is represented as a network?",
+      "Before benchmarking a change, record your expected winner and why. The cases that surprise you tell you where intuition needs calibration.",
+      "Build a small tool for someone who can actually reject it. Ask them to try the first version while you watch silently. Their choices will test your independent judgment."
+    ],
+    "lessons": [
+      [
+        "Voluntary effort reveals interests worth cultivating.",
+        "Circle the part of three projects you kept doing willingly."
+      ],
+      [
+        "A map of component skills makes an ambition trainable.",
+        "Break one feature into three skills and choose the weakest."
+      ],
+      [
+        "Routine decisions reveal work hidden by polished results.",
+        "Trace a merged change from report to verification."
+      ],
+      [
+        "Immediate feedback connects correction with a specific attempt.",
+        "Run three small drills and review each result."
+      ],
+      [
+        "A precise question helps a mentor examine your reasoning.",
+        "Ask which assumption behind one decision deserves testing."
+      ],
+      [
+        "Reconstruction exposes choices an observer misses.",
+        "Rebuild a small interaction from memory and compare."
+      ],
+      [
+        "Different strengths expose different errors.",
+        "Ask a peer to test your most confident assumption."
+      ],
+      [
+        "Transferring a method tests understanding.",
+        "Use a diagramming technique outside its usual subject."
+      ],
+      [
+        "Written predictions make intuition easier to calibrate.",
+        "Predict one benchmark result before measuring."
+      ],
+      [
+        "Real users give independent judgment a meaningful test.",
+        "Watch someone use your feature without instructions."
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "topic": "Practice",
+    "overview": "Duckworth connects sustained interest and effort with long-term achievement. The book explores how interests develop, why purposeful practice matters and how groups reinforce persistence.",
+    "example": "If an open-source issue stalls, separate your long-term aim of contributing from your current tactic. A smaller reproducible case may serve that aim better.",
+    "limit": "Persistence has opportunity costs. Reassess a goal when the costs, evidence or your circumstances change.",
+    "ideas": [
+      "Name the long-term aim behind a short-term task",
+      "Separate the goal from the tactic",
+      "Give an emerging interest a second encounter",
+      "Choose a weakness you can practice deliberately",
+      "Specify what useful feedback would look like",
+      "Connect a dull repetition to someone it helps",
+      "Record an improvement that came after a setback",
+      "Find peers who practice the same craft",
+      "Break a distant ambition into intermediate goals",
+      "Review the cost of continuing at a fixed decision point",
+      "Try several activities before specializing",
+      "Notice which questions become more interesting with familiarity",
+      "Ask a practitioner what the unglamorous work looks like",
+      "Use a short drill with a clear finish",
+      "Repeat a drill after receiving corrective feedback",
+      "Look for the part of routine practice you avoid",
+      "Identify a person who benefits when your work improves",
+      "Try a new approach to a blocked intermediate goal",
+      "Keep a record of the strategies you have already tested",
+      "Make practice materials easy to reach",
+      "Offer a teammate encouragement tied to a specific effort",
+      "Treat a temporary slump as a question to investigate",
+      "Notice when belonging to a group changes your persistence",
+      "Choose a realistic horizon for judging improvement",
+      "Retire a low-level goal when a better route serves the same purpose"
+    ],
+    "source": "https://www.angeladuckworth.com/grit",
+    "cases": [
+      "If an issue you proposed is declined, write out the reason you wanted to solve it. A different issue might serve the same long-term aim.",
+      "Learning algorithms is a goal. Solving one particular puzzle tonight is a tactic. Try a simpler related puzzle if it exposes the concept that blocked you.",
+      "Revisit a subject you dismissed after one lecture. Try a practical example and note whether curiosity grows when the format changes.",
+      "Skip the full mock contest once and drill the specific transition that cost you time, such as turning an invariant into a boundary check.",
+      "Before practicing a presentation, ask a friend to identify the first term they cannot explain. That gives a precise signal for the next revision.",
+      "Connect a repetitive test-writing task to the user who would otherwise lose saved work. It becomes easier to tell which tests actually matter.",
+      "After a failed attempt, record what changed on the next run. A narrower bug report counts as progress even when the fix is still unfinished.",
+      "Compare study notes with someone who has kept practicing the same skill for a semester. Ask what their ordinary week looks like.",
+      "Break ‘contribute to a library’ into reproducing an issue, tracing the call path, proposing a failing test, and explaining the fix.",
+      "Before a difficult project week, decide what new evidence would justify another week. At the checkpoint, compare the evidence with the cost of postponing your other work."
+    ],
+    "lessons": [
+      [
+        "A lasting aim can survive losing one opportunity.",
+        "Write another route to your original goal."
+      ],
+      [
+        "Several tactics can serve the same commitment.",
+        "Choose a simpler problem that exercises the same skill."
+      ],
+      [
+        "Interest sometimes grows during a second encounter.",
+        "Retry a subject through one practical example."
+      ],
+      [
+        "An isolated weakness is easier to measure.",
+        "Repeat one difficult transition three times."
+      ],
+      [
+        "Precise feedback identifies a next adjustment.",
+        "Ask a listener to identify the first confusing sentence."
+      ],
+      [
+        "A beneficiary gives repetition a purpose.",
+        "Name one person who benefits from today's practice."
+      ],
+      [
+        "A setback can narrow the search for a better approach.",
+        "Record one possibility your last attempt ruled out."
+      ],
+      [
+        "Peers make the ordinary routines behind achievement visible.",
+        "Ask someone what a typical practice session looks like."
+      ],
+      [
+        "Intermediate goals turn ambition into observable progress.",
+        "Choose one milestone someone else could verify."
+      ],
+      [
+        "Persistence has an opportunity cost.",
+        "Set a checkpoint and name the evidence that would justify continuing."
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Factfulness",
+    "author": "Hans Rosling, Ola Rosling & Anna Rosling Rönnlund",
+    "topic": "Judgment",
+    "overview": "The authors examine recurring errors in how people picture the world. Their examples invite readers to check distributions, rates and historical trends before accepting a dramatic explanation.",
+    "example": "A dashboard shows twice as many errors this week. Compare errors per thousand requests before concluding that reliability fell.",
+    "limit": "A global improvement can coexist with a serious local problem. Choose the scale relevant to your decision.",
+    "ideas": [
+      "Look for the middle hidden by two labels",
+      "Compare the present with a dated baseline",
+      "Sketch several possible shapes for a trend",
+      "Check frequency alongside the frightening example",
+      "Divide a count by the population exposed",
+      "Inspect variation inside a category",
+      "Update a belief that depends on old data",
+      "Ask a specialist from a second discipline",
+      "Trace the system behind a convenient culprit",
+      "When urgency rises, identify one fact worth checking"
+    ],
+    "source": "https://www.gapminder.org/factfulness/instincts/"
+  },
+  {
+    "id": 4,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson, compiling Naval Ravikant",
+    "topic": "Judgment",
+    "overview": "This collection presents Naval’s views on building wealth, judgment and a satisfying life. Read the aphorisms as propositions to test against your own goals and constraints.",
+    "example": "A reusable extension helps new users after you finish coding. Ask how much maintenance each additional user creates before calling it leverage.",
+    "limit": "Personal philosophy and entrepreneurial anecdotes do not establish predictable financial outcomes.",
+    "ideas": [
+      "Identify a skill you learn unusually willingly",
+      "Make a reusable output from a recurring task",
+      "Track the maintenance cost of leverage",
+      "Choose collaborators you can imagine trusting for years",
+      "Write down a decision before seeing its outcome",
+      "Separate wanting an outcome from wanting status",
+      "Protect time for reading outside your immediate field",
+      "Notice which desires make an ordinary day feel insufficient",
+      "Calculate what an obligation costs in attention",
+      "Define what enough would look like for one goal"
+    ],
+    "source": "https://www.navalmanack.com/"
+  },
+  {
+    "id": 5,
+    "title": "The Back of the Napkin",
+    "author": "Dan Roam",
+    "topic": "Judgment",
+    "overview": "Roam treats simple drawings as tools for understanding a problem and explaining it to someone else. The useful drawing changes with the question you are asking.",
+    "example": "For a slow checkout flow, draw the steps in order, then plot time spent at each step. The two drawings answer different questions.",
+    "limit": "A clean sketch can hide missing evidence. Mark uncertain links before treating the drawing as an explanation.",
+    "ideas": [
+      "Draw the people and objects involved",
+      "Use bars to compare quantities",
+      "Map where components sit in relation to one another",
+      "Use a timeline when order matters",
+      "Draw arrows to show how inputs change",
+      "Put competing explanations side by side",
+      "Look at the raw material before choosing a template",
+      "Remove detail that obscures the decision",
+      "Ask another person to redraw your explanation",
+      "Circle the missing fact the sketch reveals"
+    ],
+    "source": "https://www.penguinrandomhouse.com/books/300247/the-back-of-the-napkin-expanded-edition-by-dan-roam/9781591842699/"
+  },
+  {
+    "id": 6,
+    "title": "Evolutionary Psychology",
+    "author": "Topic guide · edition unconfirmed",
+    "topic": "Mind",
+    "overview": "This editorial guide explores how researchers ask whether evolutionary history helps explain behavior. Each explanation needs predictions that distinguish it from alternatives.",
+    "example": "If people defer to a confident speaker, compare cases where confidence, expertise and social rank point in different directions.",
+    "limit": "An appealing origin story is a hypothesis. Culture, learning and individual variation also deserve tests.",
+    "ideas": [
+      "Separate an immediate trigger from a historical explanation",
+      "Write a prediction before looking at outcomes",
+      "List a competing learning-based explanation",
+      "Ask what observation would weaken each account",
+      "Check which populations a study sampled",
+      "Look for variation within each group",
+      "Distinguish an adaptation claim from a by-product claim",
+      "Consider how environments change the payoff of behavior",
+      "Keep descriptive explanations separate from ethical judgments",
+      "Revise the hypothesis when predictions repeatedly fail"
+    ],
+    "source": "https://openlibrary.org/search?q=Evolutionary%20Psychology%20"
+  },
+  {
+    "id": 7,
+    "title": "Slow Sex",
+    "author": "Topic guide · edition unconfirmed",
+    "topic": "Relationships",
+    "overview": "This editorial guide explores unhurried intimacy between consenting adults. Its questions center on mutual attention, comfort and communication.",
+    "example": "Before a date, talk about what makes each person feel relaxed and what either person would like to leave open.",
+    "limit": "Comfort and desire are individual. Consent is ongoing and either person can stop at any time.",
+    "ideas": [
+      "Ask what closeness means to each person",
+      "Choose a moment when both people have time",
+      "Talk about boundaries in ordinary language",
+      "Leave room for a genuine change of mind",
+      "Notice distractions and agree which to remove",
+      "Ask before interpreting silence",
+      "Use a short check-in about comfort",
+      "Make affection possible without an expected outcome",
+      "Discuss different preferences without assigning blame",
+      "Afterward ask what felt comfortable to repeat"
+    ],
+    "source": "https://openlibrary.org/search?q=Slow%20Sex%20"
+  },
+  {
+    "id": 8,
+    "title": "How to Do the Work",
+    "author": "Nicole LePera",
+    "topic": "Mind",
+    "overview": "LePera writes about noticing habitual responses, examining learned patterns and practicing different choices. Use the book’s prompts as a way to observe everyday behavior.",
+    "example": "When a code review feels personal, write down the comment, your interpretation and the response you want to send.",
+    "limit": "The exercises are self-reflection tools. The author’s broader health explanations require independent evidence.",
+    "ideas": [
+      "Identify a recurring situation in concrete terms",
+      "Write the first interpretation you made",
+      "Notice the feeling before choosing a response",
+      "Trace a familiar rule you absorbed growing up",
+      "Check whether that rule still serves you",
+      "Choose one small promise you can keep",
+      "State a boundary in terms of your own actions",
+      "Notice what makes a new habit easier",
+      "Repair a misstep with one specific action",
+      "Review a week of observations for patterns"
+    ],
+    "source": "https://www.hachetteindia.com/Home/bookdetails/Info/9781409197744/how-to-do-the-work"
+  },
+  {
+    "id": 9,
+    "title": "The Myth of Normal",
+    "author": "Gabor Maté with Daniel Maté",
+    "topic": "Mind",
+    "overview": "The authors ask readers to look at health in the context of relationships, workplaces and culture. They invite inquiry into pressures that a community has come to accept.",
+    "example": "If everyone on a team routinely skips breaks, examine deadlines and incentives before attributing the pattern to individual choices.",
+    "limit": "Social context matters, but an individual illness has no single cause established by these reflections.",
+    "ideas": [
+      "Question which pressures a group has normalized",
+      "Describe the cost of always being available",
+      "Notice when belonging requires hiding a preference",
+      "Ask what a coping habit is doing for someone",
+      "Look for pressures shared across a group",
+      "Explore a recurring reaction with curiosity",
+      "Practice expressing a small need",
+      "Identify one supportive relationship",
+      "Distinguish a personal account from causal evidence",
+      "Name one structural change that could ease the load"
+    ],
+    "source": "https://drgabormate.com/book/the-myth-of-normal/"
+  },
+  {
+    "id": 10,
+    "title": "Scattered Minds",
+    "author": "Gabor Maté",
+    "topic": "Mind",
+    "overview": "Maté explores attention difficulties through personal stories and a developmental lens. The reading questions emphasize compassion, environmental supports and careful interpretation of causal claims.",
+    "example": "If you keep losing an assignment between apps, put the single next action in one visible place and see whether follow-through changes.",
+    "limit": "The book’s developmental explanation is the author’s view. ADHD has multiple contributing factors and diagnosis requires clinical assessment.",
+    "ideas": [
+      "Describe the difficulty without attaching a character judgment",
+      "Track the circumstances around a lapse",
+      "Separate remembering a task from starting it",
+      "Move a reminder to the point of action",
+      "Make the first step visible and small",
+      "Find out which distractions are controllable",
+      "Ask what kind of support the person wants",
+      "Notice strengths alongside difficulties",
+      "Distinguish family stories from proof of cause",
+      "Bring recurring impairments and concrete examples to a qualified clinician"
+    ],
+    "source": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd"
+  },
+  {
+    "id": 11,
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "topic": "Mind",
+    "overview": "Van der Kolk draws on clinical experiences to discuss how traumatic experiences can affect attention, bodily sensations and relationships. The book also surveys different approaches to recovery.",
+    "example": "When a friend describes distress, ask whether they want company, practical help or space before offering interpretations.",
+    "limit": "Anecdotes cannot establish a treatment’s effectiveness. For care decisions, use current clinical guidance and qualified support.",
+    "ideas": [
+      "Let a person decide what they wish to disclose",
+      "Ask what would make the current setting feel safer",
+      "Respect differences between people with similar histories",
+      "Distinguish a present observation from an inferred cause",
+      "Notice how predictable routines can support choice",
+      "Ask permission before physical contact",
+      "Use ordinary language to describe distress",
+      "Recognize the limits of a case history",
+      "Check independent evidence for a proposed treatment",
+      "Let the person set the pace of a support conversation"
+    ],
+    "source": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
+  },
+  {
+    "id": 12,
+    "title": "The Cost of Being a Man",
+    "author": "Topic guide · title unconfirmed",
+    "topic": "Relationships",
+    "overview": "These editorial prompts examine expectations associated with masculinity, including self-reliance, risk, work and emotional expression. They do not assume that everyone experiences those pressures alike.",
+    "example": "A friend says he is fine after a setback. Offer a concrete invitation for a walk and let him choose whether to talk.",
+    "limit": "A cultural expectation can shape choices without describing every individual in a group.",
+    "ideas": [
+      "Name one unwritten expectation in your peer group",
+      "Ask who benefits when that expectation is followed",
+      "Notice when a joke discourages honesty",
+      "Practice asking for a specific kind of help",
+      "Separate reliability from constant availability",
+      "Make space for a quieter member of a group",
+      "Identify a friendship built on mutual disclosure",
+      "Question a risk taken chiefly for approval",
+      "Discuss how expectations vary between generations",
+      "Choose one expectation to keep or revise"
+    ],
+    "source": "https://openlibrary.org/search?q=The%20Cost%20of%20Being%20a%20Man%20"
+  },
+  {
+    "id": 13,
+    "title": "The Book of Man",
+    "author": "Osho",
+    "topic": "Relationships",
+    "overview": "Read these talks as philosophical provocations about identity, roles and awareness. Their value lies in questions you can examine in your life.",
+    "example": "Ask which parts of your career ambition you would still pursue if nobody could see the title.",
+    "limit": "Spiritual commentary is interpretive. Broad descriptions of men and women deserve scrutiny.",
+    "ideas": [
+      "Describe yourself without job or status labels",
+      "Examine an ambition inherited from others",
+      "Notice a role you perform for approval",
+      "Ask what independence means within a relationship",
+      "Observe a reaction before explaining it",
+      "Reflect on a time vulnerability strengthened trust",
+      "Identify a belief that experience has changed",
+      "Question a generalization about gender",
+      "Try a quiet period without an audience",
+      "Translate one abstract value into a daily choice"
+    ],
+    "source": "https://openlibrary.org/search?q=The%20Book%20of%20Man%20Osho"
+  },
+  {
+    "id": 14,
+    "title": "Men Are from Mars, Women Are from Venus",
+    "author": "John Gray",
+    "topic": "Relationships",
+    "overview": "Gray uses a gender-based metaphor to discuss misunderstandings around support, stress and communication. Treat the scenarios as prompts for asking a particular person what works for them.",
+    "example": "A teammate describes a difficult day. Ask whether they want to vent or brainstorm before offering a fix.",
+    "limit": "The book’s binary generalizations are an unreliable guide to an individual person’s preferences.",
+    "ideas": [
+      "Ask whether listening or advice would help",
+      "Reflect the concern in your own words",
+      "Clarify an ambiguous request for space",
+      "Agree when to return to a paused conversation",
+      "Describe one need without assigning motive",
+      "Ask how the other person recognizes appreciation",
+      "Offer a specific example of support you value",
+      "Check whether an assumption fits this person",
+      "Repair a misunderstanding by naming your part",
+      "Revisit a communication agreement as needs change"
+    ],
+    "source": "https://openlibrary.org/search?q=Men%20Are%20from%20Mars%2C%20Women%20Are%20from%20Venus%20John%20Gray"
+  },
+  {
+    "id": 15,
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "topic": "Judgment",
+    "overview": "Read here as a historical text on planning and judgment. The practical exercises apply its themes to choosing projects, managing resources and reducing needless competition.",
+    "example": "Before a hackathon, find the smallest end-to-end demo the judges can actually evaluate. Compare its time cost with adding another feature.",
+    "limit": "Historical strategy is an analogy for project work. Classmates and collaborators have interests worth understanding on their own terms.",
+    "ideas": [
+      "Define what success would accomplish",
+      "Inventory the resources you actually control",
+      "Learn the constraints of the setting",
+      "Estimate the cost of a prolonged project",
+      "Choose a problem where your skills are relevant",
+      "Understand incentives before making commitments",
+      "Keep options open while information is changing",
+      "Avoid a contest whose reward is mostly symbolic",
+      "Adjust a plan when assumptions fail",
+      "Review which outcome was achieved with the least waste"
+    ],
+    "source": "https://openlibrary.org/search?q=The%20Art%20of%20War%20Sun%20Tzu"
+  },
+  {
+    "id": 16,
+    "title": "Sisu",
+    "author": "Topic guide · edition unconfirmed",
+    "topic": "Practice",
+    "overview": "This editorial guide examines the Finnish concept of resolve under adversity. Its practical questions ask where a final effort helps and where recovery or help is the wiser choice.",
+    "example": "A stubborn test failure may reward another focused attempt if you have a new hypothesis. Repeating the same guess provides little information.",
+    "limit": "Endurance has costs. Pain, danger and exhaustion deserve attention.",
+    "ideas": [
+      "Define the obstacle in one sentence",
+      "Name a reason the effort matters to you",
+      "Choose the smallest meaningful next step",
+      "Distinguish discomfort from a signal to stop",
+      "Ask for help before exhausting your options",
+      "Prepare a fallback for a difficult day",
+      "Use previous setbacks to identify available resources",
+      "Schedule recovery after a demanding effort",
+      "Set a stopping condition before fatigue peaks",
+      "Record what helped you act despite uncertainty"
+    ],
+    "source": "https://openlibrary.org/search?q=Sisu%20"
+  },
+  {
+    "id": 17,
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "topic": "Influence",
+    "overview": "Greene offers historical stories about power, status and incentives. This guide uses them to recognize social dynamics and choose transparent, ethical responses.",
+    "example": "In a project meeting, list who decides, who supplies evidence and whose workload changes. Invite the missing perspective before the decision.",
+    "limit": "Historical anecdotes can illustrate a pattern while leaving its frequency and alternatives unknown.",
+    "ideas": [
+      "Identify who controls a decision",
+      "Watch how credit is distributed",
+      "Notice when a public disagreement threatens status",
+      "Keep records of commitments that affect your work",
+      "Distinguish a polished reputation from actual reliability",
+      "Ask what an apparent favor obliges you to do",
+      "Recognize attempts to manufacture scarcity",
+      "Look for people excluded from informal conversations",
+      "Choose when a public response is necessary",
+      "Weigh the long-term trust cost of a short-term advantage"
+    ],
+    "source": "https://www.penguinrandomhouse.com/authors/243460/robert-greene/"
+  },
+  {
+    "id": 18,
+    "title": "The Art of Seduction",
+    "author": "Robert Greene",
+    "topic": "Influence",
+    "overview": "Greene studies historical portrayals of charisma, attention and persuasion. The editorial exercises examine how to recognize influence and preserve genuine choice.",
+    "example": "An invitation feels irresistible because it expires in ten minutes. Ask what makes it valuable when the countdown disappears.",
+    "limit": "Historical narratives are selective. In relationships respect consent, clarity and the other person’s ability to decline.",
+    "ideas": [
+      "Notice which details first captured your attention",
+      "Separate curiosity from confidence in a promise",
+      "Ask what information is being withheld",
+      "Watch for praise tailored to an insecurity",
+      "Notice a story that invites you to fill in the gaps",
+      "Check whether urgency leaves room to think",
+      "Recognize inconsistent attention that keeps you guessing",
+      "Compare someone's stated intentions with their behavior",
+      "Keep independent friendships and sources of perspective",
+      "Practice making an invitation easy to decline"
+    ],
+    "source": "https://www.penguinrandomhouse.com/authors/243460/robert-greene/"
+  },
+  {
+    "id": 19,
+    "title": "The Laws of Human Nature",
+    "author": "Robert Greene",
+    "topic": "Influence",
+    "overview": "Greene draws on biographies to discuss emotion, self-image, conformity and character. Read the patterns as hypotheses to check against repeated behavior.",
+    "example": "A terse review seems hostile. List two explanations and look for evidence across several interactions before deciding what it means.",
+    "limit": "Confidence in reading motives can outpace accuracy. Ask and observe before assigning a trait.",
+    "ideas": [
+      "Name your emotional state before a consequential decision",
+      "Look for patterns across repeated choices",
+      "Consider how incentives change someone’s presentation",
+      "Ask what would challenge your first impression",
+      "Notice when comparison turns into resentment",
+      "Identify the pressure to agree with a group",
+      "Examine the belief you most want to be true",
+      "Seek a perspective outside your usual circle",
+      "Use curiosity to interrupt a defensive reaction",
+      "Distinguish empathy from certainty about another mind"
+    ],
+    "source": "https://www.penguinrandomhouse.com/authors/243460/robert-greene/"
+  },
+  {
+    "id": 20,
+    "title": "The Greatest Lessons of History",
+    "author": "Topic guide · title unconfirmed",
+    "topic": "Judgment",
+    "overview": "These editorial prompts explore how to reason from history when the exact title on the reading list is uncertain. Compare contexts, sources and incentives before transferring a lesson.",
+    "example": "Two startups grew during recessions. Check industry, funding and timing before attributing both successes to the same cause.",
+    "limit": "Historical parallels can suggest a question. Their differences determine whether the answer travels.",
+    "ideas": [
+      "Date the original account and identify its audience",
+      "Separate contemporary testimony from later interpretation",
+      "Ask whose experiences the archive leaves out",
+      "Build a timeline before proposing a cause",
+      "Compare a similar case with a different outcome",
+      "Separate a trigger from a long-running condition",
+      "Identify which institutions shaped the options",
+      "Look for a base rate behind a memorable event",
+      "Name the differences that weaken an analogy",
+      "State the lesson with explicit conditions"
+    ],
+    "source": "https://openlibrary.org/search?q=The%20Greatest%20Lessons%20of%20History%20"
+  }
+]
