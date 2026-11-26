@@ -1,4 +1,4 @@
-# Marginalia
+# itsmy-reading-room
 Open the reading room, select a guide, and choose a reading mode. Browse as a guest or use My account to generate a private reading key. Save it for cross-device sign-in. Guest progress is copied when creating an account. The key is a bearer credential; keep it private. No email recovery is configured.
 
 ## Replit or local
